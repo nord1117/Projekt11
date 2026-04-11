@@ -1,0 +1,3 @@
+pokus.txt
+Ahoj, ja jsem studentka kurzu
+datova analytika s pythonem
