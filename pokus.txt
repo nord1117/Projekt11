@@ -1,3 +1,5 @@
 pokus.txt
 Ahoj, ja jsem studentka kurzu
 datova analytika s pythonem
+mala změna 
+zkouska pridani zmen 
